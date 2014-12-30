@@ -3,6 +3,10 @@
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv/cvaux.hpp>
 
+//#include<opencv2/core/core.hpp>
+//#include<opencv2/imgproc/imgproc.hpp>
+//#include<opencv2/highgui/highgui.hpp>
+
 int main(int argc, char** argv)
 {
     IplImage * pInpImg = 0;
